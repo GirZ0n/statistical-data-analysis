@@ -9,7 +9,7 @@ Repository with statistical data analysis homework.
 3. [LDA](./task_03).
 4. [PCA](./task_04).
 5. [Informational statistical methods. Decision tree](./task_05).
-6. [$\chi^2$ test and Fisher's exact test](./task_06).
+6. [$$\chi^2$$ test and Fisher's exact test](./task_06).
 7. —
 8. [Homogeneity hypothesis testing](./task_08).
 9. [ANOVA](./task_09).
