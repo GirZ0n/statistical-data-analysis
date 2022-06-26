@@ -1,10 +1,18 @@
 # statistical-data-analysis
+
 Repository with statistical data analysis homework.
 
 ## Homework
 
-### Homework №1
-Применить критерий знаков для решения двух задач:
-1. Проверка значимости изменений. Считаем знаки разностей между значениями в первой и второй точек: $n_-$, $n_0$, $n_+$ и для $n_- + n_+$ проверяем гипотезу $H_0: p = 0.5$, где $p$ вероятность снижения тяжести состояния. </br> [[Solution]](./task_01/subtask_1/solution.ipynb)
-
-2. Вводим переменную-индикатор неухудшения состояния: 1, если был 0 и остался 0 или тяжесть снизилась. Проверяем гипотезу о том, что изменения случайны, то есть состояние может не ухудшиться с вероятностью 0.5. Если гипотеза отвергается, то нужно сказать в пользу какой альтернативы. </br> [[Solution]](./task_01/subtask_2/solution.ipynb)
+1. [Sign test](./task_01).
+2. [Outlier Analysis](./task_02).
+3. [LDA](./task_03).
+4. [PCA](./task_04).
+5. [Informational statistical methods. Decision tree](./task_05).
+6. [$\chi^2$ test and Fisher's exact test](./task_06).
+7. —
+8. [Homogeneity hypothesis testing](./task_08).
+9. [ANOVA](./task_09).
+10. [Nonparametric homogeneity criteria](./task_10).
+11. [Regression analysis](./task_11).
+12. [Multiple regression analysis and Spearman's rank correlation](./task_12).
